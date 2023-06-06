@@ -12,6 +12,7 @@ Registration
 *** Keywords ***
 Register
     click element  xpath:/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/ul/li[1]/a
+    #Sleep is used to execute next step after some seconds
     sleep  3
     select radio button  Gender   M
     input text  id:FirstName  Bhargav Anand
