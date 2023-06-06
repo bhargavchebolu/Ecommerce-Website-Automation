@@ -1,4 +1,6 @@
 # Ecommerce-Website-Automation
 
-In this project, I have automated the registration for a ecommerce website and adding a product to the shopping cart using Web automation Robot framework. The code was written in python with selenium and robot framework. 
+In this project, I performed 5 testcases such as registration, adding some products to the shopping cart, comparing different products, subscribing to the newsletter and voting in the community poll.   
+
+The code was written in python with selenium and robot framework. 
 
