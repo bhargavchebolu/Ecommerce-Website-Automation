@@ -15,6 +15,7 @@ Shoppingsmartphones
     input text  id:Email  cbhargav@hotmail.com
     input text  id:Password    bhargav123
     click element  xpath:/html/body/div[6]/div[3]/div/div/div/div[2]/div[1]/div[2]/form/div[3]/button
+    #Sleep is used to execute next step after some seconds
     sleep  3
     click element  xpath:/html/body/div[6]/div[2]/ul[1]/li[2]/a
     click element  xpath:/html/body/div[6]/div[3]/div/div[3]/div/div[2]/div[1]/div/div[2]/div/h2/a
